@@ -77,3 +77,22 @@ MySQL
 Server
 
 Apache (XAMPP / WAMP / LAMP)
+
+
+Future Improvements
+
+Online payment integration
+
+GPS vehicle tracking
+
+Customer self-service booking portal
+
+Email booking confirmation
+
+Mobile responsive customer interface
+
+Author
+
+Arnold Tezi
+Backend Developer (PHP & MySQL)
+Interested in Web Development, Networking, and System Automation.
